@@ -1,4 +1,4 @@
-zizizipackage single.lazy;
+package single.lazy;
 
 /**
  * 线程安全的懒汉单例
